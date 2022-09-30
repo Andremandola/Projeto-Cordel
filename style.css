@@ -16,7 +16,7 @@
     font-size: 1em;
 }
 html,body{
-    min-height: 100vh;
+    min-height: 50vh;
     background-color: darkgray ;
     font-family: var(--fonte1);
 }
