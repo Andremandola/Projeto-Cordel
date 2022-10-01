@@ -67,7 +67,6 @@ section.normal{
 section.imagem{
     background-color: rgb(46, 44, 44);
     color: white;
-    height: auto;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.644);
     background-size: cover;
     background-attachment: fixed;
@@ -82,8 +81,8 @@ section.imagem > p{
 }
 
 section#img01{
-background-image: url(https://professorguanabara.github.io/projeto-cordel/imagens/background001.jpg);
-background-position: right center;
+    background-image: url(../imagens/background001.jpg);
+    background-position: right center;
 
 }
 
